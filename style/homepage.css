@@ -1,0 +1,38 @@
+body {
+    background-image: url('/images/rotGlobe.gif');
+    background-repeat: no-repeat;
+    background-size: 30%;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: #C8D5B9;
+    height: 100%;
+}
+
+#content {
+    background-color: rgba(200, 213, 185, 0.5);
+    height: 100%;
+}
+.icon {
+    width: 80px;
+
+}
+
+header {
+    text-align: right;
+    padding: 1%;
+}
+
+#identity {
+    color: white;
+    text-align: center;
+    font-family: "lato", sans-serif;
+
+}
+
+h1 {
+    font-size: xxx-large;
+}
+
+h2 {
+    font-size: x-large;
+}
